@@ -1,4 +1,4 @@
-![image](https://github.com/lkjimy/lkjimy/assets/13991518/3ceb936f-a269-4ba0-bf45-b42ee5582f78)
+![image](https://github.com/user-attachments/assets/e4eedec4-ec7b-4642-8ad8-5ca94063a28e)   
 
 ##### Heard'ya like badges...
 
