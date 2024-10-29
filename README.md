@@ -6,16 +6,10 @@
 
 ---
 
-##### What's the meaning of life, the universe and everything anyway?
+Mechatronics Technician, Designer, currently working in technology as a Front End developer (with VueJs). With over 8 years of experience, I have encountered various challenges in different activities. Working in Frontend, I advocate for "keeping it simple," which is the philosophy I've found to be most productive lately, reminiscent of my internship days where I experimented with curious solutions using CSS and HTML. After all, the trend is for the browser to become increasingly capable of delivering more with less. 
 
-People ask me "what's up with the nickname?" and I answer, "if I tell you, you will have to pay me"... Actualy I don't answer anything, because nobody asks.   
-Let's keep it that way, shall we?   
+In my daily work, I use Figma as the main tool for Interface Design, and VueJS as my preferred framework (separation of concerns + convenience = * chef's kiss * ), not to mention the entire Vue ecosystem, which is equally surprising (NuxtJs and other aggregated tools). 
 
-I'm that guy who got into programming by curiosity and got myself into trouble by writing all kinds of crappy code, but who never, right...? right...?   
-Been working on software developement for 7+ years, even though I studied Graphic Design. Do what you enjoy doing. Still learning and growing, I'll do it on my own timeline.
-
-##### When people call you crazy, there's a fifty-fifty percent chance you really are... Food for thought.
-
-<img alt="GIF" height="210px" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+Over the years, I've experienced a bit of everything. As a designer, I've produced print content, social media materials, brands, website layouts, ERPs, and Web Apps PWA. As a Front End programmer, I've worked with PHP and Javascript, eventually arriving at VueJs. I've learned a lot from incredible colleagues, who have become an inspiration to me. Software development is a constantly evolving field, and I'm grateful for the journey, knowing that I have much more to learn in the coming years.
 
 ![Curious huh 👀](https://visitor-badge.laobi.icu/badge?page_id=lkjimy.lkjimy)
