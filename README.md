@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e4eedec4-ec7b-4642-8ad8-5ca94063a28e)   
+[![image](https://github.com/user-attachments/assets/e4eedec4-ec7b-4642-8ad8-5ca94063a28e)](#)   
 
 <div align="center" style="text-align: center;">   
 
@@ -14,30 +14,30 @@
 ---
 <div align="center" style="text-align: center;">   
 
-##### ... Heard'ya like badges...
+[![Heard'ya like badges](https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=16&pause=1000&color=FFF&width=300&center=true&lines=Heard'ya+like+badges...;Here's+some+tech+I'm+into.)](#)
 
-![](https://img.shields.io/badge/Javascript-f1df40?logo=javascript&labelColor=black)
-![](https://img.shields.io/badge/HTML5-c8582e?logo=html5&labelColor=black)
-![](https://img.shields.io/badge/Sass-b66c93?logo=sass&labelColor=black)
-![](https://img.shields.io/badge/CSS3-3a6cb4?logo=css3&labelColor=black)
-![](https://img.shields.io/badge/Bootstrap-762aef?logo=bootstrap&labelColor=black)
-![](https://img.shields.io/badge/PWA-682ee3?logo=pwa&labelColor=black)
-![](https://img.shields.io/badge/Vuejs-6bb485?logo=vuedotjs&labelColor=black)
-![](https://img.shields.io/badge/Nuxtjs-60bc6f?logo=nuxtdotjs&labelColor=black)
-![](https://img.shields.io/badge/NodeJs-98bc4a?logo=nodedotjs&labelColor=black)
-![](https://img.shields.io/badge/Mongodb-70aa4f?logo=mongodb&labelColor=black)
-![](https://img.shields.io/badge/Docker-4e95e1?logo=docker&labelColor=black)
-![](https://img.shields.io/badge/Vagrant-3967e8?logo=vagrant&labelColor=black)
-![](https://img.shields.io/badge/Strapi-4d4afa?logo=strapi&labelColor=black)
-![](https://img.shields.io/badge/Directus-5a43e1?logo=directus&labelColor=black)
-![](https://img.shields.io/badge/Git-da6541?logo=git&labelColor=black)
-![](https://img.shields.io/badge/Gitlab-e57834?logo=gitlab&labelColor=black)
-![](https://img.shields.io/badge/Linux-541c5a?logo=linux&labelColor=black)
-![](https://img.shields.io/badge/Figma-5855fa?logo=figma&labelColor=black)
-![](https://img.shields.io/badge/Adobe_Illustrator-eea331?logo=adobeillustrator&labelColor=black)
-![](https://img.shields.io/badge/Adobe_After_Effetcs-9e9dfb?logo=adobeaftereffects&labelColor=black)   
+[![](https://img.shields.io/badge/Javascript-f1df40?logo=javascript&labelColor=black)](#)
+[![](https://img.shields.io/badge/HTML5-c8582e?logo=html5&labelColor=black)](#)
+[![](https://img.shields.io/badge/Sass-b66c93?logo=sass&labelColor=black)](#)
+[![](https://img.shields.io/badge/CSS3-3a6cb4?logo=css3&labelColor=black)](#)
+[![](https://img.shields.io/badge/Bootstrap-762aef?logo=bootstrap&labelColor=black)](#)
+[![](https://img.shields.io/badge/PWA-682ee3?logo=pwa&labelColor=black)](#)
+[![](https://img.shields.io/badge/Vuejs-6bb485?logo=vuedotjs&labelColor=black)](#)
+[![](https://img.shields.io/badge/Nuxtjs-60bc6f?logo=nuxtdotjs&labelColor=black)](#)
+[![](https://img.shields.io/badge/NodeJs-98bc4a?logo=nodedotjs&labelColor=black)](#)
+[![](https://img.shields.io/badge/Mongodb-70aa4f?logo=mongodb&labelColor=black)](#)
+[![](https://img.shields.io/badge/Docker-4e95e1?logo=docker&labelColor=black)](#)
+[![](https://img.shields.io/badge/Vagrant-3967e8?logo=vagrant&labelColor=black)](#)
+[![](https://img.shields.io/badge/Strapi-4d4afa?logo=strapi&labelColor=black)](#)
+[![](https://img.shields.io/badge/Directus-5a43e1?logo=directus&labelColor=black)](#)
+[![](https://img.shields.io/badge/Git-da6541?logo=git&labelColor=black)](#)
+[![](https://img.shields.io/badge/Gitlab-e57834?logo=gitlab&labelColor=black)](#)
+[![](https://img.shields.io/badge/Linux-541c5a?logo=linux&labelColor=black)](#)
+[![](https://img.shields.io/badge/Figma-5855fa?logo=figma&labelColor=black)](#)
+[![](https://img.shields.io/badge/Adobe_Illustrator-eea331?logo=adobeillustrator&labelColor=black)](#)
+[![](https://img.shields.io/badge/Adobe_After_Effetcs-9e9dfb?logo=adobeaftereffects&labelColor=black)](#)   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkjimy&layout=compact&theme=material-palenight)   
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lkjimy&layout=compact&theme=material-palenight)](#)   
 
 </div>
 
